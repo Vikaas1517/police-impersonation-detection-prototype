@@ -1,0 +1,5 @@
+streamlit==1.31.1
+rapidfuzz==3.6.1
+pillow==10.2.0
+imagehash==4.3.1
+numpy==1.26.4
